@@ -1,0 +1,2 @@
+# Disease-Prediction-and-Feature-Importance-Visualization-Diabetes-Hypertension-Stroke-
+This repository offers a robust solution for predicting Diabetes, Hypertension, and Stroke using health-related data, while also visualizing the importance of features contributing to these predictions. The project uses LightGBM (LGBM) for model training and evaluation, delivering accurate predictions with advanced machine learning techniques.
